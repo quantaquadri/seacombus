@@ -783,7 +783,7 @@ h3.section-heading::before {
 	font-size: 27px;
 	margin-top: 0;
 	font-weight: 700;
-	margin-bottom: 0
+	margin-bottom: 0;
 }
 .home-page-slider-header .property_info_header h2.price{
 	margin-top: 40px;
@@ -997,8 +997,9 @@ h3.section-heading::before {
 }
 .slider_text .property_info_header h2.price{
 	font-family: 'Lato', sans-serif;
-	font-size: 30px !important;
+	font-size: 20px !important;
 	font-weight: 900 !important;	
+	text-align: center;
 }
 .property_info_header > label {
     font-family: 'Montserrat', sans-serif;
